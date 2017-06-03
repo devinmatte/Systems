@@ -1,0 +1,24 @@
+{
+  "name": "systems",
+  "description": "For Displaying my Systems in a Landing Webpage",
+  "main": "index.html",
+  "authors": [
+    "Devin Matte"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/devinmatte/Systems",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.7.0",
+    "jquery": "^1.11.3",
+    "skel": "^3.0.1"
+  }
+}

@@ -2,3 +2,5 @@ phpmyadmin
 phpmyadmin/*
 .idea
 .idea/*
+assets/components
+assets/components/*
