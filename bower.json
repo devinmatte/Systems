@@ -19,6 +19,8 @@
   "dependencies": {
     "components-font-awesome": "^4.7.0",
     "jquery": "^1.11.3",
-    "skel": "^3.0.1"
+    "skel": "^3.0.1",
+    "html5shiv": "^3.6.2",
+    "respond": "^1.4.2"
   }
 }
